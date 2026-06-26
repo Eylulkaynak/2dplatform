@@ -36,11 +36,11 @@ Projeyi geliştirirken şu ana kadar tamamlanan adımlar aşağıda sırasıyla 
 
 \---
 
-scriptsleri craftpix adlı siteden aldım 
+spritesları craftpix adlı siteden aldım 
 
 https://craftpix.net/freebies/free-shinobi-sprites-pixel-art/
 
 https://craftpix.net/freebies/free-pixel-art-fantasy-2d-battlegrounds/
 
 
-
+scriptler ve animasyonlar eklendi 
